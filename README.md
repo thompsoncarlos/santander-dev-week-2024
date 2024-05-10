@@ -1,6 +1,11 @@
 
 # Santander Dev Week 2024
 
+## 🧭 Referência
+
+Este projeto foi desenvolvido seguindo as orientações do professor [Venilton FalvoJr](https://github.com/falvojr) e [Felipe Aguiar](https://github.com/felipeAguiarCode), através das lives disponíveis nos links abaixo e 
+clone do projeto inicial no repositório da Dio.me: [santander-dev-week-2024](https://github.com/digitalinnovationone/santander-dev-week-2024).
+
 ## 📚 Sobre o Projeto
 
 Neste repositório, você encontrará o código-fonte de uma REST API e seu respectivo Frontend (pasta `/docs`), desenvolvidos durante a Santander Dev Week 2024, fruto de uma colaboração entre a DIO e o Santander. Este projeto, construído com Java 21 e Spring Boot 3, é o resultado de quatro dias de lives, com um propósito incrível: 
